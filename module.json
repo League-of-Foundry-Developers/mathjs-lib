@@ -1,0 +1,23 @@
+{
+	"name": "Math.js",
+	"title": "_mathjs",
+	"description": "LIBRARY: Math.js - This module is just a dependency for other modules and does not offer any functionality on its own. This module includes the popular Math.js library.",
+	"version": "7.5.1",
+	"authors": [
+		{
+			"name": "The League of Extraodinary FVTT Developers",
+			"url": "https://github.com/League-of-Foundry-Developers"
+		},
+		{
+			"name": "Jos de Jong",
+			"url": "https://mathjs.org/"
+		}
+	],
+	"minimumCoreVersion": "0.0.0",
+	"scripts": [
+		"math.min.js"
+	],
+	"manifest": "https://github.com/League-of-Foundry-Developers/mathjs-lib/master/module.json",
+	"url": "https://github.com/League-of-Foundry-Developers/mathjs-lib",
+	"download": "https://github.com/League-of-Foundry-Developers/mathjs-lib/releases/download/v0.0.0/_mathjs.zip"
+}
