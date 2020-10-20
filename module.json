@@ -1,6 +1,6 @@
 {
-	"name": "Math.js",
-	"title": "_mathjs",
+	"name": "_mathjs",
+	"title": "Math.js",
 	"description": "LIBRARY: Math.js - This module is just a dependency for other modules and does not offer any functionality on its own. This module includes the popular Math.js library.",
 	"version": "7.5.1",
 	"authors": [
