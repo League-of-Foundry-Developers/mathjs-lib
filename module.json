@@ -18,7 +18,7 @@
 	"scripts": [
 		"math.min.js"
 	],
-	"manifest": "https://github.com/League-of-Foundry-Developers/mathjs-lib/master/module.json",
+	"manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/mathjs-lib/master/module.json",
 	"url": "https://github.com/League-of-Foundry-Developers/mathjs-lib",
 	"download": "https://github.com/League-of-Foundry-Developers/mathjs-lib/releases/download/v7.5.1-fvtt1/_mathjs.zip"
 }
