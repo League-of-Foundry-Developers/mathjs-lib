@@ -1,3 +1,7 @@
+## FVTT Package
+LIBRARY: Math.js - This module is just a dependency for other modules and does not offer any functionality on its own. This module includes the popular Math.js library.
+
+# Math.js
 ![math.js](https://raw.github.com/josdejong/mathjs/master/misc/img/mathjs.png)
 
 [https://mathjs.org](https://mathjs.org)
