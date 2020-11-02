@@ -21,7 +21,7 @@
 	],
 	"manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/mathjs-lib/master/module.json",
 	"url": "https://github.com/League-of-Foundry-Developers/mathjs-lib",
-	"download": "https://github.com/League-of-Foundry-Developers/mathjs-lib/releases/download/v7.5.1-fvtt1/_mathjs.zip",
+	"download": "https://github.com/League-of-Foundry-Developers/mathjs-lib/releases/download/7.5.1-fvtt2/_mathjs.zip",
 	"media": [
 		{
 			"type": "icon",
