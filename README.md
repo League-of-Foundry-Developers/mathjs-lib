@@ -1,4 +1,5 @@
 ## FVTT Package
+![Math.js](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FLeague-of-Foundry-Developers%2Fleague-repo-status%2Fshields-endpoint%2F_mathjs.json)
 LIBRARY: Math.js - This module is just a dependency for other modules and does not offer any functionality on its own. This module includes the popular Math.js library.
 
 # Math.js
