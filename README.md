@@ -8,7 +8,7 @@ Add a dependency in your module.json:
 ```json
   "dependencies": [
     {
-      "name": "Math.js",
+      "name": "_mathjs",
       "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/mathjs-lib/master/module.json"
     }
   ]
