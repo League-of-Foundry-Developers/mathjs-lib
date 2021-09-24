@@ -3,6 +3,18 @@
 
 LIBRARY: Math.js - This module is just a dependency for other modules and does not offer any functionality on its own. This module includes the popular Math.js library.
 
+## To use in your module
+Add a dependency in your module.json:
+```json
+  "dependencies": [
+    {
+      "name": "Math.js",
+      "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/mathjs-lib/master/module.json"
+    }
+  ]
+```
+When loaded, the Math.js module simply loads the library into `window.math`, so you can simply reference `math.js` functions or constants in your module code by prefixing them with `math.` For example, `math.pi`. 
+
 # Math.js
 ![math.js](https://raw.github.com/josdejong/mathjs/master/misc/img/mathjs.png)
 
